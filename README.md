@@ -1,2 +1,3 @@
-# my-aws-portfolio
-this is my professional portfolio
+# Mike Gomez portfolio
+
+This is my professional  portfolio. It uses AWS and ReactJS.
